@@ -14,6 +14,7 @@
 		C8073DCF283818A100405E36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8073DCE283818A100405E36 /* Assets.xcassets */; };
 		C8073DD2283818A100405E36 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8073DD1283818A100405E36 /* Preview Assets.xcassets */; };
 		C8073DD5283818A100405E36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8073DD3283818A100405E36 /* LaunchScreen.storyboard */; };
+		C8073DDD2838194100405E36 /* FlowerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8073DDC2838194100405E36 /* FlowerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C8073DD1283818A100405E36 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C8073DD4283818A100405E36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C8073DD6283818A100405E36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8073DDC2838194100405E36 /* FlowerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				C8073DD6283818A100405E36 /* Info.plist */,
 				C8073DCB2838189D00405E36 /* projekt.xcdatamodeld */,
 				C8073DD0283818A100405E36 /* Preview Content */,
+				C8073DDC2838194100405E36 /* FlowerView.swift */,
 			);
 			path = projekt;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			files = (
 				C8073DC62838189D00405E36 /* AppDelegate.swift in Sources */,
 				C8073DC82838189D00405E36 /* SceneDelegate.swift in Sources */,
+				C8073DDD2838194100405E36 /* FlowerView.swift in Sources */,
 				C8073DCA2838189D00405E36 /* ContentView.swift in Sources */,
 				C8073DCD2838189D00405E36 /* projekt.xcdatamodeld in Sources */,
 			);
